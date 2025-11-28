@@ -1,0 +1,26 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "Torta tres leches clásica",
+    "body": "Bizcocho esponjoso bañado en mezcla de tres leches, cubierto con crema y canela."
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "Kuchen de manzana casero",
+    "body": "Masa crujiente, relleno de manzana con canela y azúcar rubia, ideal para la once."
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "Cheesecake de frutilla",
+    "body": "Base de galleta, crema suave de queso y topping de frutillas frescas."
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "Brownies de chocolate intenso",
+    "body": "Brownies húmedos con chocolate 70% cacao y nueces tostadas."
+  }
+]
